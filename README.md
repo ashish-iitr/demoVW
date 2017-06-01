@@ -1,6 +1,7 @@
 # VL
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.6.
+#First run `npm install -g @angular/cli` to install angular cli globally in your system.
 
 ## Development server
 
