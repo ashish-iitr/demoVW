@@ -49,4 +49,18 @@
 			text-decoration: none;
 		}
 	}
+
+	.dropdown {
+		.dropdown-menu {
+			border-top: 3px solid #18ba60;
+			li :hover{
+				//background: #005951;
+				//color: #fff
+			}
+		}
+	}
+	.dropdown:hover .dropdown-menu {
+	    display: block;
+	    margin-top: 0; // remove the gap so it doesn't close
+	}
 }
